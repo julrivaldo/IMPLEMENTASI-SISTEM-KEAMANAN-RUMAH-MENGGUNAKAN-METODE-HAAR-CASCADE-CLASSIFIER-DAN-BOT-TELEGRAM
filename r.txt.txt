@@ -1,0 +1,1 @@
+Pada tampilan ini, halaman latih wajah akan muncul setelah pengguna memilih tombol "Pengambilan Data". Halaman pengambilan data ini dirancang menyerupai rancangan layar yang telah dibuat sebelumnya. Tampilan pengambilan data dapat dilihat pada Gambar 4.20.
